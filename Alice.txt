@@ -8,3 +8,4 @@ Editing alice from the GUI on master
 
 interactive rebasing from alice
 more text for interaction
+hi
