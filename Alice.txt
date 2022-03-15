@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 A new second line in another
 Trying divergent merge in alice
 trying divergent on ca3
+trying divergent again on ca3 from master
