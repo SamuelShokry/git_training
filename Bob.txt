@@ -1,3 +1,4 @@
 Hi Alice, I am bob. Samuel sent me.!!!!
 Trying divergent merge
 Trying divergent merge on bob ca3
+causing conflict
