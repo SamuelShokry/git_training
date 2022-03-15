@@ -1,1 +1,2 @@
 Hi Alice, I am bob. Samuel sent me.!!!!
+Trying divergent merge
