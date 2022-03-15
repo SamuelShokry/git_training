@@ -3,3 +3,5 @@ A new second line in another
 Trying divergent merge in alice
 editing alice from GUI on ca3
 from gui, conflict with pull
+trying to case conflict with pull
+
